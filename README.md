@@ -1,7 +1,7 @@
 # 🍽️ Zomato Restaurant Data Analysis (SQL)
 
 ## 📌 Project Overview
-This project performs end-to-end Data Cleaning, Data Transformation, and Exploratory Data Analysis (EDA) on the global [Zomato Dataset](https://github.com/SouGuit/Zomato_Dataset_Analysis/blob/main/Zomato_Dataset.csv) using SQL. The dataset includes restaurant attributes across various countries, covering details like geographic distribution, pricing, customer ratings, votes, and service offerings (online delivery & table booking).
+This project performs end-to-end Data Cleaning, Data Transformation, and Exploratory Data Analysis (EDA) on the global [Zomato Dataset](https://github.com/r4rupesh/zomato-data-analysis-sql/blob/main/zomato-analyis/Zomato_Dataset.csv) using SQL. The dataset includes restaurant attributes across various countries, covering details like geographic distribution, pricing, customer ratings, votes, and service offerings (online delivery & table booking).
 
 ---
 
@@ -66,7 +66,7 @@ Before running analytical queries, the following data hygiene steps were perform
 
 ## 🚀 How to Run the Project
 1. Clone this repository or download the SQL script: `zomato_analysis.sql`.
-2. Load the raw [Zomato Dataset](https://github.com/r4rupesh/Zomato_Dataset_Analysis/blob/main/Zomato_Dataset.csv) into your preferred RDBMS (MySQL, PostgreSQL, SQL Server).
+2. Load the raw [Zomato Dataset](https://github.com/r4rupesh/zomato-data-analysis-sql/blob/main/zomato-analyis/Zomato_Dataset.csv) into your preferred RDBMS (MySQL, PostgreSQL, SQL Server).
 3. Execute the SQL script sequentially:
    * **Step 1:** Schema & Table Creation
    * **Step 2:** Data Cleaning & Standardizations
