@@ -65,8 +65,8 @@ Before running analytical queries, the following data hygiene steps were perform
 ---
 
 ## 🚀 How to Run the Project
-1. Clone this repository or download the SQL script: `zomato_analysis_pipeline.sql`.
-2. Load the raw [Zomato Dataset](https://github.com/SouGuit/Zomato_Dataset_Analysis/blob/main/Zomato_Dataset.csv) into your preferred RDBMS (MySQL, PostgreSQL, SQL Server).
+1. Clone this repository or download the SQL script: `zomato_analysis.sql`.
+2. Load the raw [Zomato Dataset](https://github.com/r4rupesh/Zomato_Dataset_Analysis/blob/main/Zomato_Dataset.csv) into your preferred RDBMS (MySQL, PostgreSQL, SQL Server).
 3. Execute the SQL script sequentially:
    * **Step 1:** Schema & Table Creation
    * **Step 2:** Data Cleaning & Standardizations
